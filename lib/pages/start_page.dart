@@ -15,8 +15,8 @@ class StartPage extends StatelessWidget {
             children: [
               Flexible(
                   child: Text(
-                "Welcome to SPA Coding challenge",
-                style: primaryTextTheme.headline5,
+                'Welcome to SPA Coding challenge',
+                style: primaryTextTheme.headlineSmall,
                 textAlign: TextAlign.center,
               )),
             ],
